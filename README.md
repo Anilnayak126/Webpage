@@ -21,8 +21,8 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/lms-frontend.git
-    cd lms-frontend
+    git clone https://github.com/Anilnayak126/Webpage.git
+    cd Webpage
     ```
 
 2. **Install dependencies:**
@@ -42,9 +42,9 @@ After starting the development server, you can access the application at `http:/
 Contributions are welcome! Please follow these steps to contribute:
 
 1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature-name`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature-name`)
+2. Create a new branch 
+3. Commit your changes 
+4. Push to the branch 
 5. Open a pull request
 
 ## License
@@ -53,4 +53,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Anil Nayak - your- nayakanil43603@gmail.com
 
-Project Link: https://github.com/your-username/lms-frontend
+Project Link:https://github.com/Anilnayak126/Webpage.git
