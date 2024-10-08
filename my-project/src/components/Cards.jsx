@@ -14,9 +14,9 @@ export const Cards = () => {
                 <p className='mx-auto font-bold mb-2'>$149</p>
 
                 <div className='mx-auto font-thin'>
-                    <p>500 GB Storage</p>
-                    <p>1 Granted User</p>
-                    <p>Send up to 2 GB</p>
+                    <p>Python Fullstack</p>
+                    <p>For 1 Student</p>
+                    <p>offer  up to 20%</p>
 
                 </div>
                     <button className=' bg-[#00df9a] w-[150px] rounded-md my-6 mx-auto py-3 text-black '>Buy Now</button>
@@ -28,9 +28,9 @@ export const Cards = () => {
                 <p className='mx-auto font-bold mb-2'>$290</p>
 
                 <div className='mx-auto font-thin'>
-                    <p>1 TB Storage</p>
-                    <p>3 Granted User</p>
-                    <p>Send up to 5 GB</p>
+                    <p>Python fullstack, soft skills</p>
+                    <p></p>
+                    <p>Save up to 30%</p>
 
                 </div>
                     <button className=' bg-[#00df9a] w-[150px] rounded-md my-6 mx-auto py-3 text-black '>Buy Now</button>
@@ -39,12 +39,12 @@ export const Cards = () => {
             <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg items-center justify-center hover:scale-105 duration-100 '>
                 <img className='w-20 mx-auto bg-white'src={Triple} alt="/" />
                 <h2 className='text-2xl font-bold text-center py-8'>Triple User</h2>
-                <p className='mx-auto font-bold mb-2'>$149</p>
+                <p className='mx-auto font-bold mb-2'>$600</p>
 
                 <div className='mx-auto font-thin'>
-                    <p>500 GB Storage</p>
-                    <p>1 Granted User</p>
-                    <p>Send up to 2 GB</p>
+                    <p>Python fullstack,Soft skills, placement</p>
+                    <p></p>
+                    <p> Save upto 40%</p>
 
                 </div>
                     <button className=' bg-[#00df9a] w-[150px] rounded-md my-6 mx-auto py-3 text-black '>Buy Now</button>

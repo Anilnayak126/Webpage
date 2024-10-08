@@ -13,7 +13,7 @@ export const Footer = () => {
         <div className='w-full text-white '>
             <div className='md:flex-row max-w-[1240px]  mx-auto py-8 px-4 flex flex-col '>
                 <div className='py-4 p-6'>
-                    <h1 className='text-[#00df9a] font-bold text-2xl'>REACT.</h1>
+                    <h1 className='text-[#00df9a] font-bold text-2xl'>DevAnil.</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, quos tempore itaque nostrum doloribus a hic porro ut maiores ab error vel impedit quam deserunt ullam ipsam earum, commodi veritatis.</p>
                     <div className='py-2  flex gap-2'>
                         <FaDribbbleSquare size={30} />
