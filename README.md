@@ -1,7 +1,6 @@
 # LMS Frontend
 
 ![image](https://github.com/Anilnayak126/Webpage/blob/main/my-project/screen.png)
-![GitHub Logo](https://github.com/Anilnayak126/Webpage/blob/main/my-project/screen.png)
 
 
 ## Overview
