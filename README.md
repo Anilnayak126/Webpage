@@ -1,6 +1,8 @@
 # LMS Frontend
 
 ![image](https://github.com/Anilnayak126/Webpage/blob/main/my-project/screen.png)
+![GitHub Logo](https://github.com/Anilnayak126/Webpage/blob/main/my-project/screen.png)
+
 
 ## Overview
 This project is a Learning Management System (LMS) frontend built using React and Tailwind CSS. It provides a user-friendly interface for managing courses, students, and instructors.
